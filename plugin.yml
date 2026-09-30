@@ -1,0 +1,6 @@
+name: PP_Kill_Manager
+main: ppls_kills\Pixel
+api: [1.0.3, 2.0.0, 3.0.0]
+version: 05.04.2024
+author: "tatanova"
+description: "Saves the number of deaths and kills of players in the file"
